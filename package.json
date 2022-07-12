@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "description": "Redis storage provider for the @nestjs/throttler package",
   "author": "Kim 金可明 <koomen@pm.me>",
+  "contributors": [
+    {
+      "name": "Chheung",
+      "url": "https://github.com/Chheung",
+      "email": "chienchheung@gmail.com"
+    }
+  ],
   "keywords": [
     "nestjs",
     "rate-limit",
@@ -128,5 +135,5 @@
   "bugs": {
     "url": "https://github.com/Chheung/nestjs-throttler-storage-redis/issues"
   },
-  "homepage": "https://github.com/kkoomen/nestjs-throttler-storage-redis#readme"
+  "homepage": "https://github.com/Chheung/nestjs-throttler-storage-redis#readme"
 }
