@@ -1,5 +1,5 @@
 {
-  "name": "chheung-nestjs-throttler-storage-redis",
+  "name": "@chienchheung/nestjs-throttler-storage-redis",
   "version": "0.3.0",
   "description": "Redis storage provider for the @nestjs/throttler package",
   "author": "Kim 金可明 <koomen@pm.me>",
