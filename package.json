@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-throttler-storage-redis",
+  "name": "chheung-nestjs-throttler-storage-redis",
   "version": "0.1.19",
   "description": "Redis storage provider for the @nestjs/throttler package",
   "author": "Kim 金可明 <koomen@pm.me>",
@@ -83,7 +83,7 @@
   "peerDependencies": {
     "@nestjs/common": "^7 || ^8",
     "@nestjs/core": "^7 || ^8",
-    "@nestjs/throttler": "^2.0.0",
+    "@nestjs/throttler": "^3.0.0",
     "ioredis": "^5.0.4",
     "reflect-metadata": "^0.1.13"
   },
@@ -123,10 +123,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkoomen/nestjs-throttler-storage-redis.git"
+    "url": "git+https://github.com/Chheung/nestjs-throttler-storage-redis.git"
   },
   "bugs": {
-    "url": "https://github.com/kkoomen/nestjs-throttler-storage-redis/issues"
+    "url": "https://github.com/Chheung/nestjs-throttler-storage-redis/issues"
   },
   "homepage": "https://github.com/kkoomen/nestjs-throttler-storage-redis#readme"
 }
