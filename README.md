@@ -1,4 +1,4 @@
-# NestJS Throttler Redis Storage fo v^3.0.0
+# NestJS Throttler Redis Storage for @nestjs/throttler ^3.0.0
 
 ![Tests status](https://img.shields.io/github/workflow/status/kkoomen/nestjs-throttler-storage-redis/Tests/master)
 
