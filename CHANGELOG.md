@@ -1,3 +1,14 @@
+# [0.2.0](https://github.com/Chheung/nestjs-throttler-storage-redis/compare/v0.1.18...v0.2.0) (2022-07-12)
+
+
+### Bug Fixes
+
+* add support for redis.options.keyPrefix ([29b009f](https://github.com/Chheung/nestjs-throttler-storage-redis/commit/29b009f77cf824d98171de355145350e99d2e113))
+* remove @types/ioredis ([fa7d7b4](https://github.com/Chheung/nestjs-throttler-storage-redis/commit/fa7d7b4579c14af9f5e25bddafc348ef32063180))
+* upgrade ioredis to v5 and fix usage ([ed48845](https://github.com/Chheung/nestjs-throttler-storage-redis/commit/ed48845d56b4e28da9a2793cf2d704ac56c06759))
+
+
+
 ## [0.1.19](https://github.com/kkoomen/nestjs-throttler-storage-redis/compare/v0.1.18...v0.1.19) (2022-05-01)
 
 
